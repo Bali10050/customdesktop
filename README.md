@@ -21,6 +21,10 @@ systemctl start bluetooth.service
 
 
 # Nvidia setup
+### nvidia-settings
+```
+sudo pacman -S nvidia-settings
+```
 ### mpv
 `/home/bali10050/.config/mpv/mpv.conf`
 ```
