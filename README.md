@@ -27,9 +27,14 @@ systemctl start bluetooth.service
 ```
 sudo pacman -S nvidia-settings
 ```
+
+<!--
 ### mpv
 `/home/bali10050/.config/mpv/mpv.conf`
 ```
+-->
+
+
 vo=gpu
 hwdec=nvdec
 profile=gpu-hq
