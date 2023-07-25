@@ -1,0 +1,33 @@
+[Bottomleft corner]
+Description=Bottomleft corner
+above=true
+aboverule=2
+position=0,1372
+positionrule=2
+skippager=true
+skippagerrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+title=Left_Bottom
+titlematch=1
+wmclass=roudedscreencorners
+wmclassmatch=1
+
+[Bottomright corner]
+Description=Bottomright corner
+above=true
+aboverule=2
+position=2536,1372
+positionrule=2
+skippager=true
+skippagerrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+title=Right_Bottom
+titlematch=1
+wmclass=roudedscreencorners
+wmclassmatch=1
