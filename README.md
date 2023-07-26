@@ -17,7 +17,9 @@ systemctl enable bluetooth.service
 ```
 systemctl start bluetooth.service
 ```
-
+```
+sudo pacman -S pulseaudio-bluetooth
+```
 
 # Nvidia setup
 ### nvidia-settings
