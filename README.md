@@ -66,6 +66,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 MOZ_DISABLE_RDD_SANDBOX=1
 LIBVA_DRIVER_NAME=nvidia
 __EGL_VENDOR_LIBRARY_FILENAMES=/usr/share/glvnd/egl_vendor.d/10_nvidia.json
+NVD_BACKEND=direct
 ```
 
 
