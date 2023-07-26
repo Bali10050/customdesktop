@@ -78,7 +78,11 @@ NVD_BACKEND=direct
 
 ### Firefox
 `media.ffmpeg.vaapi.enabled`=`true`
+
 `media.rdd-ffmpeg.enabled`=`true`
+
 `media.av1.enabled`=`false`
+
 `gfx.x11-egl.force-enabled`=`false`
+
 `widget.dmabuf.force-enabled`=`true`
