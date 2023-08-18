@@ -81,4 +81,8 @@ MOZ_ENABLE_WAYLAND=1
 
 `widget.dmabuf.force-enabled`=`true`
 
+
 `gfx.webrender.all`=`true`
+
+
+`layout.frame_rate`=`144`
