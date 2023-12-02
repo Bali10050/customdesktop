@@ -82,6 +82,12 @@ MOZ_ENABLE_WAYLAND=1
 `widget.dmabuf.force-enabled`=`true`
 
 
+
+Disable `browser.tabs.searchclipboardfor.middleclick`
+
+Enable `toolkit.tabbox.switchByScrolling`
+
+
 `gfx.webrender.all`=`true`
 
 
